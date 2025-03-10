@@ -1,5 +1,3 @@
-package tasks;
-
 import java.util.Scanner;
 
 public class JSF_Task1 {
